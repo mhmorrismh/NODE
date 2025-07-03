@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "framework": "react-router",
+  "env": {
+    "VITE_CONVEX_URL": "https://colorless-goldfinch-515.convex.cloud",
+    "CONVEX_DEPLOYMENT": "colorless-goldfinch-515"
+  }
+} 
